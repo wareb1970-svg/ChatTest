@@ -47,7 +47,8 @@ Do not upload the outer `revenue-rescue` folder as a nested directory.
 6. Copy the final production URL.
 7. Set `APP_URL` to that exact URL.
 8. Redeploy after changing the environment variable.
-
+9. Deployment refresh
+    
 ## Stripe sandbox setup
 
 1. Enter a Stripe sandbox.
